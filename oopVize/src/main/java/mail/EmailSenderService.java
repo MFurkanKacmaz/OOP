@@ -13,7 +13,7 @@ public class EmailSenderService {
     /*Mail gönderilirken çağrılan fonksiyon*/
     public void sendSimpleEmail(String toEmail, String subject, String body) {
         SimpleMailMessage message = new SimpleMailMessage();
-        message.setFrom("mahoo3447@gmail.com"); /*Gönderen*/
+        message.setFrom("example@gmail.com"); /*Gönderen*/
         message.setTo(toEmail);/*Maili alan*/
         message.setText(body);/*Mail açıklaması*/
         message.setSubject(subject);/*Mail başlığı*/
