@@ -1,6 +1,6 @@
 #ELÝT ÜYELER  #
-Fatih   Korkmaz  mfurkankacmaz@gmail.com
+Fatih   Korkmaz  example1@gmail.com
 
 #GENEL ÜYELER
-Furkan  Kaçmaz  mahoo3447@gmail.com
-Muhammed    Kaya    fthakmaz@gmail.com
+Furkan  Kaçmaz  example2@gmail.com
+Muhammed    Kaya    example3@gmail.com
